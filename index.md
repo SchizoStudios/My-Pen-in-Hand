@@ -19,6 +19,7 @@ To use this font in a commercial setting, please contact Mikah Smith through ano
 - `index.html` – Web version of the license (for GitHub Pages)  
 - `examples/` – Usage examples (optional)
 
+## [Click here for the Full Font Interface](index.html)
 ---
 
 ## ✨ About the Creator
@@ -28,5 +29,3 @@ Mikah Smith is a metaphysical practitioner, multimedia artist, and founder of Sc
 ---
 
 > “This font was written by hand, but authored by soul.”
-
-## [Click here for the Full Font Interface](index.html)
