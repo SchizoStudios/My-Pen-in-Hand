@@ -29,4 +29,4 @@ Mikah Smith is a metaphysical practitioner, multimedia artist, and founder of Sc
 
 > “This font was written by hand, but authored by soul.”
 
-## > [Click here for the Full Font Interface](index.html)
+## [Click here for the Full Font Interface](index.html)
