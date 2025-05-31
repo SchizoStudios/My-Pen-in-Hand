@@ -7,8 +7,7 @@
 ## 🔒 License
 
 This font is licensed for **non-commercial use only**.  
-Full license details can be found in `LICENSE.txt` and will soon be available at [https://licensing.schizostudios.org/font/My_Pen_in_Hand](https://licensing.schizostudios.org/font/My_Pen_in_Hand)
-
+Full license details can be found in 'Non-Commercial_Font_License_My-Pen-in-Hand' at https://licenses.schizostudios.org
 To use this font in a commercial setting, please contact Mikah Smith through anonymous@schizostudios.org (https://schizostudios.org) for licensing options.
 
 ---
